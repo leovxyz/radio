@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 songCover.style.top = initialTop; // Reset to initial position
                 activeSongCover = null; // Clear the active song cover reference
             } else {
-                songCover.style.top = '28%'; 
+                songCover.style.top = '27.5%'; 
                 activeSongCover = songCover; // Set the active song cover to the clicked one
             }
 

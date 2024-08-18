@@ -138,7 +138,7 @@ main{ /* Main content */
     height: 300px;
     background-color: black;
     position: absolute;
-    top: 38%;
+    top: 36%;
     transform: translate(-50%, -50%);
     transform-style: preserve-3d;
     transform: rotateX(25deg) rotateY(30deg);
@@ -151,7 +151,7 @@ main{ /* Main content */
 }
 
 .songCover:hover{
-    top: 35.5%;
+    top: 34%;
 }
 
 .songCover img{
