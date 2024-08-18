@@ -300,8 +300,6 @@ main{ /* Main content */
     }
 }
 
-
-
  @media (max-width: 720px) {
     main{
         display: none;
